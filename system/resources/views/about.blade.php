@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cofee Blog>
+<title>Cofee Blog </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Coffee Break Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -59,8 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navig">
 						<li><a href="{{url('user')}}">Home</a></li>
 						<li><a href="{{url('about')}}" class="active">About</a></li>
-						<li><a href="{{url('artikel')}}">Article</a></li>
-						<li><a href="{{url('')}}">Login</a></li>
+						<li><a href="{{url('artikel')}}">Gallery</a></li>
 					</ul>
 			</div>
 			<div class="header-right">
@@ -91,12 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="banner">
 		<div class="container">
 			<div class="banner-top">
-				<div class="banner-text">
-					<h2>Aliquam erat</h2>
-					<h1>Suspendisse potenti</h1>
-					<div class="banner-btn">
-						<a href="single.html">Read More</a>
-					</div>
+				
 				</div>
 			</div>
 		</div>

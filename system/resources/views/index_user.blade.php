@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cofee Blog</title>
+<title>Coffee Blog</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Coffee Break Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -48,8 +48,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navig">
 						<li><a href="{{url('user')}}" class="active">Home</a></li>
 						<li><a href="{{url('about')}}">About</a></li>
-						<li><a href="{{url('artikel')}}">Article</a></li>
-						<li><a href="{{url('')}}">Login</a></li>
+						<li><a href="{{url('artikel')}}">Gallery</a></li>
 						<li><a href="typo.html"></a></li>
 						<li><a href="contact.html"></a></li>
 					</ul>
@@ -82,13 +81,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="banner">
 		<div class="container">
 			<div class="banner-top">
-				<div class="banner-text">
-					<h2>Aliquam erat</h2>
-					<h1>Suspendisse potenti</h1>
-					<div class="banner-btn">
-						<a href="single.html">Read More</a>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -99,16 +91,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-main">
 				<div class="col-md-8 about-left">
 					<div class="about-one">
-						<p>Find The Most</p>
 						<h3>Coffee of the month</h3>
 					</div>
 					<div class="about-two">
 						<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-1.jpg" alt="" /></a>
 						<p>Posted by <a href="#">Johnson</a> on 10 feb, 2015 <a href="#">comments(2)</a></p>
-						<p>Phasellus fringilla enim nibh, ac pharetra nulla vestibulum ac. Donec tempor fermentum felis, non placerat sem ultrices ut. Nam molestie nunc nec felis hendrerit, in pulvinar arcu mollis. Quisque eget purus nec velit venenatis tincidunt vitae ac massa. Proin vel ornare tellus. Duis consectetur gravida tellus ut varius. Aenean tellus massa, laoreet ut euismod et, pretium id ex. Mauris hendrerit suscipit hendrerit.</p>
-						<p>Quisque ultrices ligula a nisl porttitor, vitae porta tortor eleifend. Nulla nec imperdiet ipsum, ut cursus mauris. Proin ut sodales sem, quis vestibulum libero. Proin tempor venenatis congue. Phasellus mollis massa sit amet pharetra consequat. Aliquam quis lacus at sapien tempor semper. Sed ultrices et metus et elementum. Nunc sed justo at erat consequat mollis et eu lectus.</p>
-						<div class="about-btn">
-							<a href="single.html">Read More</a>
+						<h4>Kopi Memiliki Beragam Rasa</h4>
+						<p>Well, ‘beragam rasa’ yang dimaksud di sini adalah after taste. After taste adalah flavour atau rasa yang tertinggal di mulut pada saat meneguk kopi. Mungkin kamu belum tahu kalau kopi mampu memberikan aneka after taste pada saat diminum. Tak semua kopi memiliki karakteristik sama terutama saat dinikmati melalui metode manual brewing. Ada kopi yang after taste-nya nutty, cocoa atau justru karamel. Ada juga yang after taste-nya jeruk atau bisa juga stroberi. Kenapa bisa demikian? Itu tergantung kontur tanah dan di mana kopi itu berasal dan di mana kopi itu ditanam. Kopi adalah tanaman unik yang ternyata juga bisa menyerap ‘rasa’ dari tanaman yang ada di dekatnya. Keunikannya ini menjadikan kopi istimewa. Kini banyak para ahli kopi yang mencari kopi-kopi unik di seluruh dunia untuk menemukan after taste-nya.</p>
 						</div>
 						<ul>
 							<li><p>Share : </p></li>
@@ -121,16 +110,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="a-1">
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-3.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">12 Alasan Ilmiah Kenapa Kamu Harus Minum Kopi Hitam Setiap Hari</a></h3>
+								<p>Banyak sekali manfaat minum kopi hitam, antara lain mengurasi resiko jantung, kanker, mengurangi resiko terkena alzheimer, dan meningkatkan fungsi hati. Yang perlu kita lakukan untuk merasakan manfaat itu semua adalah dengan memperhatikan jenis kopi yang kita konsumsi. Sebaiknya konsumsilah kopi hitam murni dan segar tanpa campuran apapun termasuk gula dan susu.</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-4.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">Beli Kopi Biji atau Bubuk? Mana yang Lebih Baik?</a></h3>
+								<p>Ketika kamu membeli kopi dalam bentuk bubuk, besar kemungkinan kopi tersebut sudah mengalami proses oksidasi atau proses masuknya gas oksigen ke dalam kopi bubuk tersebut. Hal ini akan membuat kopi bereaksi terhadap minyak alami dan kandungan larutan lain yang dimilikinya sehingga membuat kopi tidak segar lagi4</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="clearfix"></div>
@@ -138,16 +125,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="a-1">
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-5.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">Perbedaan Espresso dan Filter Kopi, Mana yang lebih baik?</a></h3>
+								<p>Espresso dibuat dengan waktu yang cepat, hasilnya pekat dan sedikit pahit. Sedangkan filter kopi membutuhkan sedikit waktu lebih lama untuk membuatnya, namun hasilnya cenderung lebih bersih, lembut, dan sedikit asam.</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-6.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">Apa yang Terjadi Jika Pecandu Kopi Tidak Minum Kopi</a></h3>
+								<p>Bagi pecandu kopi, tidak minum kopi satu hari saja dapat menimbulkan berbagai gangguan, seperti rasa pusing, perasaan tidak nyaman, sulit berkonsentrasi dan gelisah. Apakah kamu merasakan hal yang sama?</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="clearfix"></div>
@@ -155,9 +140,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="a-1">
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-7.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">Tips Ngopi di Bulan Puasa</a></h3>
+								<p>Tidak ada larangan untuk mengonsumsi kopi di bulan puasa, hanya saja ada beberapa tips yang perlu kamu perhatikan, seperti waktu ngopi, kuantitas dan tentunya kualitas kopi yang kamu minum.</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="col-md-6 abt-left">

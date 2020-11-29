@@ -31,7 +31,11 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
 				<td>hh</td>
-				<td></td>
+				<td>
+                    <a href="" class="btn btn-warning"><i class="far fa-edit"></i></a> <br>
+                    <a onclick="" class="btn btn-danger"><i class="far fa-trash-alt"></i></a>
+                </td>
+			
 
 
             </tbody>
