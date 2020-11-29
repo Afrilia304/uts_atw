@@ -48,7 +48,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navig">
 						<li><a href="{{url('user')}}" class="active">Home</a></li>
 						<li><a href="{{url('about')}}">About</a></li>
-						<li><a href="{{url('artikel')}}">Gallery</a></li>
+						<li><a href="{{url('galeri')}}">Gallery</a></li>
+						<li><a href="{{url('contact')}}">Contact</a></li>
+						<li><a href="{{url('login')}}">Login</a></li>
 						<li><a href="typo.html"></a></li>
 						<li><a href="contact.html"></a></li>
 					</ul>
@@ -94,7 +96,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h3>Coffee of the month</h3>
 					</div>
 					<div class="about-two">
-						<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-1.jpg" alt="" /></a>
+						<a href=""><img src="{{url('public')}}/asset/user/images/c-1.jpg" alt="" /></a>
 						<p>Posted by <a href="#">Johnson</a> on 10 feb, 2015 <a href="#">comments(2)</a></p>
 						<h4>Kopi Memiliki Beragam Rasa</h4>
 						<p>Well, ‘beragam rasa’ yang dimaksud di sini adalah after taste. After taste adalah flavour atau rasa yang tertinggal di mulut pada saat meneguk kopi. Mungkin kamu belum tahu kalau kopi mampu memberikan aneka after taste pada saat diminum. Tak semua kopi memiliki karakteristik sama terutama saat dinikmati melalui metode manual brewing. Ada kopi yang after taste-nya nutty, cocoa atau justru karamel. Ada juga yang after taste-nya jeruk atau bisa juga stroberi. Kenapa bisa demikian? Itu tergantung kontur tanah dan di mana kopi itu berasal dan di mana kopi itu ditanam. Kopi adalah tanaman unik yang ternyata juga bisa menyerap ‘rasa’ dari tanaman yang ada di dekatnya. Keunikannya ini menjadikan kopi istimewa. Kini banyak para ahli kopi yang mencari kopi-kopi unik di seluruh dunia untuk menemukan after taste-nya.</p>
@@ -109,13 +111,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="about-tre">
 						<div class="a-1">
 							<div class="col-md-6 abt-left">
-								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-3.jpg" alt="" /></a>
+								<a href="{{url('views/artikel1')}}"><img src="{{url('public')}}/asset/user/images/c-3.jpg" alt="" /></a>
 								<h3><a href="single.html">12 Alasan Ilmiah Kenapa Kamu Harus Minum Kopi Hitam Setiap Hari</a></h3>
 								<p>Banyak sekali manfaat minum kopi hitam, antara lain mengurasi resiko jantung, kanker, mengurangi resiko terkena alzheimer, dan meningkatkan fungsi hati. Yang perlu kita lakukan untuk merasakan manfaat itu semua adalah dengan memperhatikan jenis kopi yang kita konsumsi. Sebaiknya konsumsilah kopi hitam murni dan segar tanpa campuran apapun termasuk gula dan susu.</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="col-md-6 abt-left">
-								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-4.jpg" alt="" /></a>
+								<a href="{{url('views/artikel2')}}"><img src="{{url('public')}}/asset/user/images/c-4.jpg" alt="" /></a>
 								<h3><a href="single.html">Beli Kopi Biji atau Bubuk? Mana yang Lebih Baik?</a></h3>
 								<p>Ketika kamu membeli kopi dalam bentuk bubuk, besar kemungkinan kopi tersebut sudah mengalami proses oksidasi atau proses masuknya gas oksigen ke dalam kopi bubuk tersebut. Hal ini akan membuat kopi bereaksi terhadap minyak alami dan kandungan larutan lain yang dimilikinya sehingga membuat kopi tidak segar lagi4</p>
 								<label>May 29, 2015</label>
@@ -146,9 +148,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-8.jpg" alt="" /></a>
-								<h6>Find The Most</h6>
-								<h3><a href="single.html">Tasty Coffee</a></h3>
-								<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam.</p>
+								<h3><a href="single.html">Inilah Alasan Kenapa Lebih Baik Menyeduh Kopi Sendiri di Rumah Daripada Beli</a></h3>
+								<p>Ada beberapa alasan kenapa lebih baik menyeduh kopi sendiri daripada membelinya, diantaranya adalah menjadikan kegiatan menyeduh kopi menjadi kegiatan menyenangkan setiap harinya, dapat mengeksplor kopi lebih ‘dalam’ tanpa takut mengganggu orang lain, mencoba berbagai jenis kopi dan pastinya bisa menghemat uang. Bagaimana menurut kamu?</p>
 								<label>May 29, 2015</label>
 							</div>
 							<div class="clearfix"></div>
@@ -160,7 +161,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h3>ABOUT US</h3>
 						<div class="abt-one">
 							<img src="{{url('public')}}/asset/user/images/c-2.jpg" alt="" />
-							<p>Quisque non tellus vitae mauris luctus aliquam sit amet id velit. Mauris ut dapibus nulla, a dictum neque.</p>
+							<p>Pengertian Kopi Single Origin yang Harus Kamu Ketahui</p>
+							<p>Kopi single origin bisa saja : 1. Berupa kopi yang sepenuhnya berasal dari satu perkebunan kopi, atau 2. kopi dari beberapa perkebunan kopi namun masih di suatu daerah yang lebih umum, atau 3. kopi dari beberapa perkebunan kopi di negara yang sama.</p>
 							<div class="a-btn">
 								<a href="single.html">Read More</a>
 							</div>
@@ -313,7 +315,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="footer-text">
-				<p>© 2020 Coffee Break. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank"></a> </p>
+				<p>© 2020 Coffee Break. Design by Creative Team<a href="http://w3layouts.com/" target="_blank"></a> </p>
 			</div>
 		</div>
 	</div>

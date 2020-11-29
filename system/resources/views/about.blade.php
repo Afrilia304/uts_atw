@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cofee Blog </title>
+<title>Coffee Blog </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Coffee Break Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -59,7 +59,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navig">
 						<li><a href="{{url('user')}}">Home</a></li>
 						<li><a href="{{url('about')}}" class="active">About</a></li>
-						<li><a href="{{url('artikel')}}">Gallery</a></li>
+						<li><a href="{{url('galeri')}}">Gallery</a></li>
+						<li><a href="{{url('contact')}}">Contact</a></li>
+						<li><a href="{{url('login')}}">Login</a></li>
 					</ul>
 			</div>
 			<div class="header-right">
@@ -103,8 +105,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3>WELCOME</h3>
 				<div class="welcome-bottom">
 					<img src="{{url('public')}}/asset/user/images/abt-1.jpg" alt=""/>
-					<p>Vivamus interdum diam diam, non faucibus tortor consequat vitae. Proin sit amet augue sed massa pellentesque viverra. Suspendisse iaculis purus eget est pretium aliquam ut sed diam. Nullam non magna lobortis, faucibus erat eu, consequat justo. Suspendisse commodo nibh odio, vel elementum nulla luctus sit amet.</p>
-					<p>Nulla in tempor lectus. Etiam ac mauris lacinia nulla ultricies porta sit amet eleifend ligula. Quisque tincidunt vitae turpis at efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sagittis, magna a sagittis dapibus, ipsum metus interdum lectus, quis feugiat leo ipsum nec diam.</p>
+					<p>Dunia perkopian berkembang dengan pesatnya akhir-akhir ini. Mereka yang mulanya hanya sekedar menikmati kopi instan dan (paling-paling) kopi tubruk di rumah kini telah beranjak ke kedai kopi dan menikmati aneka kopi dari mesin espresso. Kabar baiknya banyak penikmat kopi pemula yang menikmati kopi dengan level lebih tinggi.</p>
+					<p>Yang dulunya mungkin hanya mampu menikmati frappe dan kopi-kopi bercampur gula dan krim kini bergeser menikmati cappuccino tanpa gula. Seiring dengan perkembangannya, banyak dari pemula yang belum tahu beberapa hal tentang kopi yang mereka nikmati. Dan untuk itu artikel ini dipersembahkan dengan senang hati untuk mereka agar tak lagi keliru soal fakta tentang kopi.</p>
 				</div>
 			</div>
 		</div>
@@ -124,17 +126,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 team-left">
 					<img src="{{url('public')}}/asset/user/images/t-2.jpg" alt="" />
-					<h4>Marta Healy</h4>
+					<h4>Marta</h4>
 					<p>Fusce at elementum diam. Integer pellentesque ultricies pharetra.</p>
 				</div>
 				<div class="col-md-3 team-left">
 					<img src="{{url('public')}}/asset/user/images/t-3.jpg" alt="" />
-					<h4>John Black</h4>
+					<h4>Joseph Goh</h4>
 					<p>Fusce at elementum diam. Integer pellentesque ultricies pharetra.</p>
 				</div>
 				<div class="col-md-3 team-left">
 					<img src="{{url('public')}}/asset/user/images/t-4.jpg" alt="" />
-					<h4>Kate Tompson</h4>
+					<h4>Liliana</h4>
 					<p>Fusce at elementum diam. Integer pellentesque ultricies pharetra.</p>
 				</div>
 				<div class="clearfix"></div>
@@ -229,7 +231,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="footer-text">
-				<p>© 2020 Cofee Blog by Creative  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+				<p>© 2020 Cofee Blog. Design by Creative Team<a href="http://w3layouts.com/" target="_blank"></a></p>
 			</div>
 		</div>
 	</div>

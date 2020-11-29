@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ArtikelController;
+use App\Http\Controllers\GaleriController;
+use App\Http\Controllers\AdminController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,8 +22,15 @@ Route::get('/', function () {
 });
 // admin
 Route::get('admin/artikel', [ArtikelController:: class, 'artikel']);
+Route::get('index_admin', [AdminController:: class, 'index_admin']);
 
 // user
-Route::get('user', [HomeCOntroller:: class, 'user']);
-Route::get('artikel', [HomeCOntroller:: class, 'artikel']);
-Route::get('about', [HomeCOntroller:: class, 'about']);
+Route::get('user', [HomeController:: class, 'user']);
+Route::get('artikel', [HomeController:: class, 'artikel']);
+Route::get('about', [HomeController:: class, 'about']);
+Route::get('galeri', [HomeController:: class, 'galeri']);
+Route::get('contact', [HomeController:: class, 'contact']);
+Route::get('views/artikel1', [HomeController:: class, 'artikel1']);
+Route::get('views/artikel2', [HomeController:: class, 'artikel2']);
+Route::get('login', [HomeController:: class, 'login']);
+

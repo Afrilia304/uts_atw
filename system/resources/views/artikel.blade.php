@@ -48,7 +48,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="navig">
 						<li><a href="{{url('user')}}">Home</a></li>
 						<li><a href="{{url('about')}}">About</a></li>
-						<li><a href="{{url('artikel')}}" class="active">Gallery</a></li>
+						<li><a href="{{url('galeri')}}" class="active">Gallery</a></li>
 						<li><a href="typo.html"></a></li>
 						<li><a href="contact.html"></a></li>
 					</ul>
@@ -144,7 +144,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="footer-text">
-				<p>© 2020 Coffee Blog by Creative  <a href="http://w3layouts.com/" target="_blank"></a> </p>
+				<p>© 2020 Coffee Blog. Design by Creative Team<a href="http://w3layouts.com/" target="_blank"></a> </p>
 			</div>
 		</div>
 	</div>
