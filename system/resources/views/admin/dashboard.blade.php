@@ -97,7 +97,7 @@ if(Route::current()->uri == $route) return 'active';
                         </li>
                         <hr>
                         <li class="nav-item">
-                            <a href="{{url('dashboard')}}" class="nav-link {{checkRouteActive('dashboard')}}">
+                            <a href="{{url('index_admin')}}" class="nav-link {{checkRouteActive('index_admin')}}">
                                 <i class="nav-icon fas fa-home"></i>
                                 <p>Dashboard</p>
                             </a>
@@ -110,7 +110,7 @@ if(Route::current()->uri == $route) return 'active';
                         </li>
                         
                         <li class="nav-item">
-                            <a href="{{url('homeService')}}" class="nav-link {{checkRouteActive('homeService')}}">
+                            <a href="{{url('')}}" class="nav-link {{checkRouteActive('')}}">
                                 <i class="nav-icon fas fa-phone-volume"></i>
                                 <p>User</p>
                             </a>

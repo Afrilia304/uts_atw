@@ -202,7 +202,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="footer-text">
-				<p>© 2015 Coffee Blog. Design by Creative Team <a href="http://w3layouts.com/" target="_blank"></a> </p>
+				<p>© 2020 Coffee Blog. Design by Creative Team <a href="http://w3layouts.com/" target="_blank"></a> </p>
 			</div>
 		</div>
 	</div>

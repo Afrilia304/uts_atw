@@ -1,4 +1,4 @@
-<!-- untuk membuat link sidebar/ link navbar nya bisa dinamis -->
+<!-- <!-- untuk membuat link sidebar/ link navbar nya bisa dinamis -->
 @php
 
 function checkRouteActive($route){
@@ -71,9 +71,6 @@ if(Route::current()->uri == $route) return 'active';
                     </a>
                     <ul class="dropdown-menu p-3">
                         <li><a class="nav-link" href="#"><i class="fa fa-suitcase mr-2"></i>Profile</a></li>
-                        <li>
-                            <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button"><i class="fas fa-th-large mr-2"></i>Custom</a>
-                        </li>
                         <li><a class="nav-link" href="{{url('logout')}}"><i class="fa fa-key mr-2"></i> Log Out</a></li>
                     </ul>
                 </li>
@@ -101,7 +98,7 @@ if(Route::current()->uri == $route) return 'active';
                         </li>
                         <hr>
                         <li class="nav-item">
-                            <a href="{{url('dashboard')}}" class="nav-link {{checkRouteActive('dashboard')}}">
+                            <a href="{{url('index_admin')}}" class="nav-link {{checkRouteActive('index_admin')}}">
                                 <i class="nav-icon fas fa-home"></i>
                                 <p>Dashboard</p>
                             </a>
@@ -213,4 +210,4 @@ if(Route::current()->uri == $route) return 'active';
     </script>
 </body>
 
-</html>
+</html> -->

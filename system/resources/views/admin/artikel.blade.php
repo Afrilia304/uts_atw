@@ -1,9 +1,6 @@
 @extends('admin.template')
 @section('content')
 
-	
-
-
 <div class="card">
     <div class="card-header">
         <h3 class="card-title">Data</h3>
@@ -17,23 +14,18 @@
                 <tr>
                     <th>No</th>
                     <th>Judul</th>
-                    <th>Content</th>
+                    <th>Tanggal Upload</th>
                     <th>Aksi</th>
                 </tr>
             </thead>
             <tbody>
 
                 <td>1</td>
-                <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-				<td>hh</td>
+                <td>12 Alasan Ilmiah Kenapa Kamu Harus Minum Kopi Hitam Setiap Hari</td>
+				<td>29 Mei 2020</td>
 				<td>
-                    <a href="" class="btn btn-warning"><i class="far fa-edit"></i></a> <br>
-                    <a onclick="" class="btn btn-danger"><i class="far fa-trash-alt"></i></a>
+                    <a href="" class="btn btn-warning"><i class="far fa-edit"></i></a> 
+                    <a onclick="" class="btn btn-danger"><i class="far fa-trash-alt"></i></a>           
                 </td>
 			
 

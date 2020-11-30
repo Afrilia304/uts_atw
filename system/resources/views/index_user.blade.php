@@ -114,13 +114,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<a href="{{url('views/artikel1')}}"><img src="{{url('public')}}/asset/user/images/c-3.jpg" alt="" /></a>
 								<h3><a href="single.html">12 Alasan Ilmiah Kenapa Kamu Harus Minum Kopi Hitam Setiap Hari</a></h3>
 								<p>Banyak sekali manfaat minum kopi hitam, antara lain mengurasi resiko jantung, kanker, mengurangi resiko terkena alzheimer, dan meningkatkan fungsi hati. Yang perlu kita lakukan untuk merasakan manfaat itu semua adalah dengan memperhatikan jenis kopi yang kita konsumsi. Sebaiknya konsumsilah kopi hitam murni dan segar tanpa campuran apapun termasuk gula dan susu.</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2020</label>
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="{{url('views/artikel2')}}"><img src="{{url('public')}}/asset/user/images/c-4.jpg" alt="" /></a>
 								<h3><a href="single.html">Beli Kopi Biji atau Bubuk? Mana yang Lebih Baik?</a></h3>
 								<p>Ketika kamu membeli kopi dalam bentuk bubuk, besar kemungkinan kopi tersebut sudah mengalami proses oksidasi atau proses masuknya gas oksigen ke dalam kopi bubuk tersebut. Hal ini akan membuat kopi bereaksi terhadap minyak alami dan kandungan larutan lain yang dimilikinya sehingga membuat kopi tidak segar lagi4</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2020</label>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -129,13 +129,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-5.jpg" alt="" /></a>
 								<h3><a href="single.html">Perbedaan Espresso dan Filter Kopi, Mana yang lebih baik?</a></h3>
 								<p>Espresso dibuat dengan waktu yang cepat, hasilnya pekat dan sedikit pahit. Sedangkan filter kopi membutuhkan sedikit waktu lebih lama untuk membuatnya, namun hasilnya cenderung lebih bersih, lembut, dan sedikit asam.</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2018</label>
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-6.jpg" alt="" /></a>
 								<h3><a href="single.html">Apa yang Terjadi Jika Pecandu Kopi Tidak Minum Kopi</a></h3>
 								<p>Bagi pecandu kopi, tidak minum kopi satu hari saja dapat menimbulkan berbagai gangguan, seperti rasa pusing, perasaan tidak nyaman, sulit berkonsentrasi dan gelisah. Apakah kamu merasakan hal yang sama?</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2019</label>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -144,13 +144,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-7.jpg" alt="" /></a>
 								<h3><a href="single.html">Tips Ngopi di Bulan Puasa</a></h3>
 								<p>Tidak ada larangan untuk mengonsumsi kopi di bulan puasa, hanya saja ada beberapa tips yang perlu kamu perhatikan, seperti waktu ngopi, kuantitas dan tentunya kualitas kopi yang kamu minum.</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2019</label>
 							</div>
 							<div class="col-md-6 abt-left">
 								<a href="single.html"><img src="{{url('public')}}/asset/user/images/c-8.jpg" alt="" /></a>
 								<h3><a href="single.html">Inilah Alasan Kenapa Lebih Baik Menyeduh Kopi Sendiri di Rumah Daripada Beli</a></h3>
 								<p>Ada beberapa alasan kenapa lebih baik menyeduh kopi sendiri daripada membelinya, diantaranya adalah menjadikan kegiatan menyeduh kopi menjadi kegiatan menyenangkan setiap harinya, dapat mengeksplor kopi lebih ‘dalam’ tanpa takut mengganggu orang lain, mencoba berbagai jenis kopi dan pastinya bisa menghemat uang. Bagaimana menurut kamu?</p>
-								<label>May 29, 2015</label>
+								<label>May 29, 2018</label>
 							</div>
 							<div class="clearfix"></div>
 						</div>
